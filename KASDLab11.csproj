@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyPriorityQueue.cs" />
+    <Compile Include="MyPriotiryTask.cs" />
+    <Compile Include="MyPriotiryTaskComparer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
